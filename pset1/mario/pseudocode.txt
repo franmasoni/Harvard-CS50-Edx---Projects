@@ -1,0 +1,2 @@
+1. Take input from user for the height of the pyramid.
+2. Repeat n number of times (n means the input entered by the user).
